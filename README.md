@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOYEON%20GitHub&fontSize=50&desc=Hello,%20World!&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOYEON%20GitHub&fontSize=40&desc=Hello,%20World!&fontAlignY=30)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)](https://github.com/anuraghazra/github-readme-stats)
