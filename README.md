@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,7,8,9,10,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=55)
 
 ## STACK🛠️
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)](https://github.com/seoyeoneel02/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,7,8,9,10,11,14,16,17,20,21,22,27&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=100&section=footer)
