@@ -1,5 +1,3 @@
-## Seoyeonee 깃허브 👋
-
 <!--
 **seoyeoneel02/seoyeoneel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON's%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=55)
 
-## STACK🛠️
+### About Me
+<h3 align="center">🏫Univ🏫</h3>
+<p align="center">Catholic University of Korea
+<br/>
+Computer Science Information Engineering</p>
+
+### STACK🛠️
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
