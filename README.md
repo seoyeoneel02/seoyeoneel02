@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seoyeoneel02)
+![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black)
+![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)
+
 </div>
 
 <br/>
@@ -62,7 +68,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)](https://github.com/seoyeoneel02/github-readme-stats)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeoneel02)](https://github.com/seoyeoneel02/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)
+<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeoneel02)-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=100&section=footer)
