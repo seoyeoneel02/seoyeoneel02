@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON's%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,8,9,11,14,16,17,20,21,22,27&height=200&section=header&text=SEOYEON's%20GitHub&fontSize=40&fontAlignY=30&desc=Hello,%20World!&descAlignY=53)
 
 ### About Me
 
@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeoneel02)-->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,8,9,11,14,16,17,20,21,22,27&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,8,9,11,14,16,17,20,21,22,27&height=100&section=footer)
