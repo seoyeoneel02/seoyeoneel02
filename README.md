@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/UMC-FITple/Backend">
     <img src="https://github.com/user-attachments/assets/58079ebd-7428-4fb0-9211-75c568600e48" alt="FITple" width="100" height="100">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/catholichak2024/cathak_Backend">
+    <img src="https://github.com/user-attachments/assets/827a256a-97f5-4c1c-805d-655a4804d97a" alt="EG에그 로고" width="100" height="100">
 </a>
 
 <br/><br/>
