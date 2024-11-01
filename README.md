@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seoyeoneel02)
-![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black)
+[![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black)](https://seoyeoneel02.notion.site/Liv-15e831dfd7774b29971c20756e1dd75a?pvs=4)
 ![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)
 
 </div>
