@@ -55,7 +55,7 @@
     <img src="https://github.com/user-attachments/assets/827a256a-97f5-4c1c-805d-655a4804d97a" alt="EG에그 로고" width="100" height="100">
 </a>
 
-<br/><br/>
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeoneel02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeoneel02)
