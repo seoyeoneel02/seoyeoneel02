@@ -56,6 +56,9 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TImeCAlling/TImeCAlling_BE">
     <img src="https://github.com/user-attachments/assets/bd91b7bd-d57e-4e79-8c2f-b3b2609bb225" alt="TImeCAlling" width="100" height="100">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/GDG-ZIMEET/ZIMEET-backend">
+    <img src="https://github.com/user-attachments/assets/9c9a7da8-1c3d-475c-aff9-647249162719" alt="ZIMEET" width="100" height="100">
 </a>
 
 <br><br>
