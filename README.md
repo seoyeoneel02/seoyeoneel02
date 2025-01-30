@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=105&text=SEOYEONEE✨&rotate=7&fontSize=35&fontAlign=82&fontAlignY=41.7)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=105&text=SEOYEONEE✨&rotate=7&fontSize=35&fontAlign=84&fontAlignY=41.7)
 
 ### About Me
 
