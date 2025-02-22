@@ -38,7 +38,7 @@
 |기간|활동|역할|
 |:-:|:-:|:-:|
 |2024.12 ~ |GDGoC(GDG on Campus) CUK 4기|운영진(Organizer)|
-|2024.09 ~ |IT 연합 프로젝트 동아리 UMC 7기|CUK SpringBoot 스터디장|
+|2024.09 ~ 2025.02|IT 연합 프로젝트 동아리 UMC 7기|CUK SpringBoot 스터디장|
 |2024.07 ~ 2024.12|GDGoC(GDG on Campus) CUK 3기|운영진(Tech팀), AWS 스터디장|
 |2024.03 ~ 2024.08|IT 연합 프로젝트 동아리 UMC 6기|CUK Node.js 스터디원|
 
