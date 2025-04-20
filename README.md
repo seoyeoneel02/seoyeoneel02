@@ -2,7 +2,7 @@
 
 ### About Me
 
-<h3 align="center">🏫Univ🏫</h3>
+<h3 align="center">🏫 Univ 🏫</h3>
 <p align="center">
   <i>Catholic University of Korea</i>
   <br/>
