@@ -6,7 +6,7 @@
 <p align="center">
   <i>Catholic University of Korea</i>
   <br/>
-  💻Computer Science Information Engineering💻
+  💻 Computer Science Information Engineering 💻
 </p>
 
 <br/>
