@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=75&text=✨&rotate=5&fontSize=45&fontAlign=95&fontAlignY=37&desc=SEOYEONEE&descAlign=85&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=75&rotate=5&desc=SEOYEONEE&descAlign=90&descAlignY=40)
 
 ### About Me
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-### STACK🛠️
+### STACK
 
 <div align=center>
 
