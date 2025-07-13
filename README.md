@@ -23,6 +23,12 @@
 
 <br/>
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seoyeoneel02)
 [![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black)](https://seoyeoneel02.notion.site/Liv-15e831dfd7774b29971c20756e1dd75a?pvs=4)
 ![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)
