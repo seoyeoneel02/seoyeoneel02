@@ -4,7 +4,7 @@
 
 <h3 align="center">🏫 Univ 🏫</h3>
 <p align="center">
-  <i>Catholic University of Korea</i>
+  <i>The Catholic University of Korea</i>
   <br/>
   💻 Computer Science Information Engineering 💻
 </p>
