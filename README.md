@@ -43,7 +43,7 @@
 
 |기간|활동|역할|
 |:-:|:-:|:-:|
-|2024.06 ~ |GDGoC(GDG on Campus) CUK 5기|회장(Organizer)|
+|2025.06 ~ |GDGoC(GDG on Campus) CUK 5기|회장(Organizer)|
 |2025.02 ~ 2025.08|IT 연합 프로젝트 동아리 UMC 8기|CUK Node.js 파트장, Web 스터디원|
 |2024.12 ~ 2025.06|GDGoC(GDG on Campus) CUK 4기|운영진(Organizer)|
 |2024.09 ~ 2025.02|IT 연합 프로젝트 동아리 UMC 7기|CUK SpringBoot 스터디장|
