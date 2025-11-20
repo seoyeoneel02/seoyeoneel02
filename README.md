@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=75)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=50)
 
 ### About Me
 
