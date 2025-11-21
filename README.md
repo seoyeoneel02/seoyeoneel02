@@ -68,7 +68,7 @@
 <a href="https://github.com/GDG-ZIMEET/ZIMEET-backend">
     <img src="https://github.com/user-attachments/assets/9c9a7da8-1c3d-475c-aff9-647249162719" alt="ZIMEET" width="100" height="100">
 </a>
-<a href="[https://github.com/GDG-ZIMEET/ZIMEET-backend](https://github.com/Gongspot/Gongspot_Web)">
+<a href="https://github.com/Gongspot/Gongspot_Web">
     <img src="https://github.com/user-attachments/assets/358b5ccb-a1e8-4ce2-8a13-5853c6a4dfa6" alt="GongSpot" width="100" height="100">
 </a>
 
